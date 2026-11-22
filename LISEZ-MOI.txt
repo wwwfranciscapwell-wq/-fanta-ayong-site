@@ -1,0 +1,10 @@
+SITE OFFICIEL FANTA AYONG — ÉDITION PREMIUM
+
+Cette version conserve les photos personnelles fournies, les vidéos YouTube et le formulaire WhatsApp.
+Nouveautés : design noir et or raffiné, sections plus aérées, animations au défilement, barre de progression, menu actif, effets subtils sur les cartes et galerie photo agrandissable.
+
+Pour ouvrir : double-cliquer sur index.html dans ce dossier extrait.
+Garder ensemble index.html, style.css, script.js et le dossier assets.
+Réservation WhatsApp : +241 745 018 98. Le visiteur vérifie puis envoie le message depuis WhatsApp.
+Les liens Facebook et TikTok restent à compléter avec les adresses officielles.
+Le site reste local tant qu'il n'est pas publié sur un hébergement web.
